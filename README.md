@@ -49,6 +49,7 @@ After downloading:
    - Overwrite the existing models folder if prompted
 
 Final path should look like:
+
 **PROJECT-CLAIRE/**
    - backend/
       - models/   <-- place models here
