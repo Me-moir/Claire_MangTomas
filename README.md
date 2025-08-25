@@ -40,6 +40,7 @@ Example extraction path: `C:\Users\<YourUsername>\Desktop\PROJECT-CLAIRE`
 
 ### 5. Download Data Models
 Download the pretrained data models (4 files) from Google Drive:
+
 📂 CLAIRE Models Folder: https://drive.google.com/drive/folders/1df87MOvmy20DeR7NsWgTm7ascED4fEaw?usp=drive_link
 
 After downloading:
@@ -49,12 +50,10 @@ After downloading:
 
 Final path should look like:
    PROJECT-CLAIRE/
-   │
-   ├── backend/
-   │   ├── models/   <-- place models here
-   │   └── start_claire.py
-   │
-   └── frontend/
+      - backend/
+         - models/   <-- place models here
+         - start_claire.py
+      - frontend/
 
 
 
