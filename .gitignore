@@ -1,0 +1,22 @@
+# Ignore model files
+backend/models/*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+project-claire-env/
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+backend/models/*.pt
+backend/models/__pycache__/
+*.log
