@@ -40,7 +40,7 @@ Example extraction path: `C:\Users\<YourUsername>\Desktop\PROJECT-CLAIRE`
 
 ### 5. Download Data Models
 Download the pretrained data models (4 files) from Google Drive:
-📂 CLAIRE Models Folder
+📂 CLAIRE Models Folder: https://drive.google.com/drive/folders/1df87MOvmy20DeR7NsWgTm7ascED4fEaw?usp=drive_link
 
 After downloading:
    - Extract the downloaded models folder
