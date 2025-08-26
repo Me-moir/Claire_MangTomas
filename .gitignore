@@ -16,7 +16,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment files
-.env
 backend/models/*.pt
 backend/models/__pycache__/
 *.log
+
+# macOS system files
+.DS_Store
